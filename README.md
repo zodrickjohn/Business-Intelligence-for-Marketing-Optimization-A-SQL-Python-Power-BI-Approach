@@ -47,7 +47,8 @@ The project followed a structured data analysis workflow:
         * **Customer Engagement**: Views, clicks, and likes over time and by content type.
         * **Customer Feedback**: Average ratings and sentiment distribution.
     * The final dashboard provides a holistic view of marketing performance, enabling stakeholders to drill down into specific areas of interest.
-
+      
+      ![Overview Dashboard Page](Overview.png)
 ---
 
 ## 📊 Key Insights & Recommendations
