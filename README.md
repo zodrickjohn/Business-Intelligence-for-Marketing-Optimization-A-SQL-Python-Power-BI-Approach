@@ -8,12 +8,14 @@ This project presents a comprehensive marketing analysis for an online retail bu
 
 ## 🎯 Problem Statement
 
-The marketing team at ABC faced several key challenges[cite: 6]:
+The marketing team at ABC faced several key challenges:
 * **Reduced Customer Engagement**: A noticeable decline in customer interactions with marketing content.
 * **Decreased Conversion Rates**: Fewer website visitors were completing purchases.
 * **Low ROI on Marketing Spend**: Significant investments in marketing campaigns were not delivering the expected returns.
 
 The primary goal was to analyze multi-source data to understand performance drivers, identify areas for improvement, and provide data-driven recommendations to enhance marketing effectiveness.
+
+* Click to view PPT of [Marketing Analytics Business Case](https://docs.google.com/presentation/d/1m_RtSiJlbTaU3c4Wh914w7tsWluGFDoV/edit?usp=sharing&ouid=101950897602007881120&rtpof=true&sd=true)
 
 ---
 
@@ -53,8 +55,8 @@ The project followed a structured data analysis workflow:
 The analysis uncovered three core areas for improvement:
 
 1.  **Decreased Conversion Rates**: The overall conversion rate is **9.57%**, with significant seasonal fluctuations.
-    * [cite_start]**Insight**: January is the peak month (**17.31%**) driven by winter sports, while October is the lowest (**6.15%**). [cite_start]Products like Hockey Stick (**15.46%**) and Ski Boots (**14.61%**) are top performers.
-    * **Recommendation**: Focus marketing on high-performing products and launch targeted seasonal campaigns to capitalize on these trends[cite: 101, 102].
+    * **Insight**: January is the peak month (**17.31%**) driven by winter sports, while October is the lowest (**6.15%**). Products like Hockey Stick (**15.46%**) and Ski Boots (**14.61%**) are top performers.
+    * **Recommendation**: Focus marketing on high-performing products and launch targeted seasonal campaigns to capitalize on these trends.
 2.  **Reduced Customer Engagement**: Social media views show a consistent decline throughout the year, from a peak of ~1.0M in January/February.
     * **Insight**: Clicks and Likes are disproportionately low compared to views, indicating a lack of engaging content or weak calls-to-action.
     * **Recommendation**: Experiment with more interactive content formats and optimize the content strategy based on what performs best in different seasons (e.g., Video in Q1).
@@ -62,19 +64,7 @@ The analysis uncovered three core areas for improvement:
     * **Insight**: While most feedback is positive (840 reviews), there is a significant volume of **Negative (226)** and **Mixed-Negative (196)** reviews.
     * **Recommendation**: Implement a feedback loop to systematically analyze and address common issues raised in negative and mixed reviews to improve customer satisfaction.
 
----
-
-## 🚀 Dashboard Preview & Presentation
-
-Below are screenshots of the final Power BI dashboard.
-
-**Overview Dashboard**
-
-**Conversion Details**
-
-You can view the full business case and final presentation here:
-* [Marketing Analytics Business Case](https://docs.google.com/presentation/d/1m_RtSiJlbTaU3c4Wh914w7tsWluGFDoV/edit?usp=sharing&ouid=101950897602007881120&rtpof=true&sd=true)
-* [Final Project Presentation](https://docs.google.com/presentation/d/17mlEg0e2uDpr1qqe2jbhLFj546NSWGkD/edit?usp=sharing&ouid=101950897602007881120&rtpof=true&sd=true)
+* Click to view PPT of [Final Project Presentation](https://docs.google.com/presentation/d/17mlEg0e2uDpr1qqe2jbhLFj546NSWGkD/edit?usp=sharing&ouid=101950897602007881120&rtpof=true&sd=true)
 
 ---
 
