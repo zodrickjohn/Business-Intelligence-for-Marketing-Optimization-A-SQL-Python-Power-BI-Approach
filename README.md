@@ -49,6 +49,12 @@ The project followed a structured data analysis workflow:
     * The final dashboard provides a holistic view of marketing performance, enabling stakeholders to drill down into specific areas of interest.
       
       ![Overview Dashboard Page](Overview.png)
+      
+      ![Conversion Details Dashboard Page](Conversion_details.png)
+      
+      ![Social Media Details Dashboard Page](Social_Media_Details.png)
+      
+      ![Customer Review Details Dashboard Page](Customer_Review_Details.png)
 ---
 
 ## 📊 Key Insights & Recommendations
